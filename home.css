@@ -229,9 +229,9 @@ body{
 
 
 @media only screen and (max-width:800px) {
-/*.cursor{
+.cursor{
 	display: none;
-}*/
+}
 .star1{
 	position: absolute;
 	pointer-events: none;
