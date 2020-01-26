@@ -536,6 +536,9 @@ p{
 }*/
 
 @media only screen and (max-width:800px) {
+	.cursor{
+	display:none;
+}
 	.moreworks{
 	position:relative;
 	width:15vw;
@@ -808,8 +811,6 @@ p{
 	padding:10px;
 	top:2vh;
 }
-/*	.cursor{
-		display:none;}*/
 	.home{
 	position:absolute;
 	left:22vh;
