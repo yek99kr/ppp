@@ -534,9 +534,9 @@ p{
 
 @media only screen and (max-width:800px) {
 
-/*.cursor{
+.cursor{
 	display:none;
-}*/
+}
 .a iframe{
   width:28vw;
   height:28vw;
