@@ -33,10 +33,10 @@ body{
 #title{
 	position: absolute;
 	left:50%;
-	transform: translate(-50%);
-	top:2vh;
-	width:28vw;
-	min-width:180px;
+	transform: translate(-52%);
+	top:3vh;
+	width:37vw;
+	min-width:200px;
 
 }
 
@@ -232,6 +232,9 @@ body{
 .cursor{
 	display: none;
 }
+	#title{
+		width:60vw;
+	}
 .star1{
 	position: absolute;
 	pointer-events: none;
