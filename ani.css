@@ -35,7 +35,7 @@ body{
 /*    animation:cursor 6s infinite;*/
 }
 .cursor img{
-	width:3vw;
+	width:5vw;
 }
 .a{
 	position:absolute;
@@ -522,7 +522,7 @@ iframe{
 
 }
 #but9 img{
-	width:27vw;
+	width:22vw;
 	min-width:350px;
 	animation:fly 2s linear infinite;
 }
@@ -535,7 +535,7 @@ iframe{
 
 }
 #but10 img{
-	width:9vw;
+	width:8vw;
 	min-width:70px;
 	animation:angle 0.7s infinite;
 }
@@ -819,7 +819,7 @@ p{
 
 }
 #but9 img{
-	width:53vw;
+	width:44vw;
 	animation:fly 2s linear infinite;
 	min-width:0px;
 }
@@ -832,7 +832,7 @@ p{
 
 }
 #but10 img{
-	width:17vw;
+	width:15vw;
 	min-width:0px;
 	animation:angle 1s infinite;
 }
