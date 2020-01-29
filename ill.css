@@ -22,7 +22,7 @@ body{
     z-index: 7;
     pointer-events: none;
     left:-100%;
-    transform: translate(-25%,-10%);
+    transform: translate(-25%,-5%);
 }
 .cursor img{
 	width:8vw;
