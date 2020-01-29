@@ -48,7 +48,7 @@ body{
     transform: translate(-40%);
 }
 .cursor img{
-	width:14vw;
+	width:13vw;
 	animation:cursor 3.5s infinite;
 }
 .back{
