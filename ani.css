@@ -94,6 +94,7 @@ body{
 	transition: 1s;
 	display: none;
 	animation: modal 0.5s;
+	
 }
 
 .home{
@@ -341,6 +342,7 @@ body{
 	padding-right:30px;
 	font-family: sans-serif;
 	top:5vh;
+	transition:0.5s;
 }
 #modal0 p{
 	top:10vh;
