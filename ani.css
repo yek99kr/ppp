@@ -346,6 +346,7 @@ body{
 }
 #modal0 p{
 	top:10vh;
+	transition:0.5s;
 }
 
 a{
