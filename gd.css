@@ -309,30 +309,21 @@ p{
 	padding-left:30px;
 	padding-right:30px;
 	font-family: sans-serif;
+	transition:0.5s;
 }
 #modal0 p{
 	top:10vh;
 }
 
-.moreworks{
-	position:relative;
-	width:10vw;
-	height:10vw;
-	margin-top:10vh;
-	margin-bottom:20vh;
-	left:50%;
-	transform: translate(-50%);
-	box-shadow: 0px 0px 35px 6px rgba(242,209,0,1);
-	font-size:30px;
-	color:rgba(242,209,0,1);
-	border-radius: 30px;
-	background:white;
-	padding:20px;
-	padding-left:30px;
-	padding-right:30px;
-	font-family: sans-serif;
-	text-align: center;
+a{
 	text-decoration: none;
+}
+.morework:hover{
+	margin-top:7vh;
+
+}
+.morework:active{
+	margin-top:10vh;
 
 }
 
