@@ -45,10 +45,10 @@ body{
     z-index: 7;
     pointer-events: none;
     left:-100%;
-    transform: translate(-35%);
+    transform: translate(-40%);
 }
 .cursor img{
-	width:8vw;
+	width:14vw;
 	animation:cursor 3.5s infinite;
 }
 .back{
