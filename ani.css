@@ -320,27 +320,6 @@ body{
 	top:3vh;
 	box-shadow:0 0 20px 10px rgba(255,143,209,1);
 }
-.moreworks{
-	position:relative;
-	width:10vw;
-	height:10vw;
-	margin-top:10vh;
-	margin-bottom:20vh;
-	left:50%;
-	transform: translate(-50%);
-	box-shadow: 0px 0px 35px 6px rgba(255,143,209,1);
-	font-size:30px;
-	color:rgba(255,143,209,1);
-	border-radius: 30px;
-	background:white;
-	padding:20px;
-	padding-left:30px;
-	padding-right:30px;
-	font-family: sans-serif;
-	text-align: center;
-	text-decoration: none;
-
-}
 
  video {
 	box-shadow: 0px 0px 35px 6px rgba(255,143,209,1);
@@ -362,6 +341,21 @@ body{
 	padding-right:30px;
 	font-family: sans-serif;
 	top:5vh;
+}
+#modal0 p{
+	top:10vh;
+}
+
+a{
+	text-decoration: none;
+}
+.morework:hover{
+	margin-top:7vh;
+
+}
+.morework:active{
+	margin-top:10vh;
+
 }
 
 
