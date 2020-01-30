@@ -445,7 +445,7 @@ p{
 	right:-10%;
 	bottom:-28%;
 	pointer-events: none;
-	width:50vw;
+	width:55vw;
 }
 .clap2{
 	position: absolute;
@@ -453,7 +453,7 @@ p{
 	bottom:-28%;
 	pointer-events: none;
 	transform: scaleX(-1);
-	width:50vw;
+	width:55vw;
 }
 .clap3{
 display:none;
@@ -467,7 +467,7 @@ display:none;
 	bottom:50%;
 	pointer-events: none;
 	transform: scaleX(-1) rotate(-120deg);
-	width:50vw;
+	width:55vw;
 }
 .clap6{
 	position: absolute;
@@ -475,7 +475,7 @@ display:none;
 	bottom:50%;
 	pointer-events: none;
 	transform: rotate(-120deg);
-	width:50vw;
+	width:55vw;
 }
 
 .me{
