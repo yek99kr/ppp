@@ -370,20 +370,10 @@ h{
 	width:30vw;
 }
 .clap5{
-	position: absolute;
-	left:-8vw;
-	bottom:30vh;
-	pointer-events: none;
-	transform: scaleX(-1) rotate(-60deg);
-	width:30vw;
+display:none;
 }
 .clap6{
-	position: absolute;
-	right:-8vw;
-	bottom:30vh;
-	pointer-events: none;
-	transform: rotate(-60deg);
-	width:30vw;
+display:none;
 }
 
 
