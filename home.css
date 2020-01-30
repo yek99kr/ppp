@@ -412,6 +412,12 @@ body{
 	transition: 0.5s;
 	left:0;
 }
+	.title{
+	width:80vw;
+	font-size:30px;
+	text-shadow: 0 0 5px white, 0 0 8px white;
+		letter-spacing: 3px;
+	}
 
 
 }
