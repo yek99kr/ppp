@@ -16,8 +16,14 @@ body{
 	overflow: hidden;
 }
 
-.blueback{
+.back{
 	background-image:url("blueback.png");
+	position: absolute;
+	width:100vw;
+	height:100vh;
+	z-index: -1;
+}
+.blueback{
 	position: absolute;
 	width:100vw;
 	height:100vh;
