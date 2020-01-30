@@ -444,14 +444,14 @@ p{
 .clap{
 	position: absolute;
 	right:-10%;
-	bottom:-15%;
+	bottom:-25%;
 	pointer-events: none;
 	width:50vw;
 }
 .clap2{
 	position: absolute;
 	left:-10%;
-	bottom:-15%;
+	bottom:-25%;
 	pointer-events: none;
 	transform: scaleX(-1);
 	width:50vw;
@@ -475,7 +475,7 @@ p{
 .clap5{
 	position: absolute;
 	left:-8%;
-	bottom:60%;
+	bottom:50%;
 	pointer-events: none;
 	transform: scaleX(-1) rotate(-120deg);
 	width:50vw;
@@ -483,7 +483,7 @@ p{
 .clap6{
 	position: absolute;
 	right:-8%;
-	bottom:60%;
+	bottom:50%;
 	pointer-events: none;
 	transform: rotate(-120deg);
 	width:50vw;
