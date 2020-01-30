@@ -242,16 +242,11 @@ body{
 
 
 @media only screen and (max-width:800px) {
-	#title{
-	width:60vw;
 
-}
 .cursor{
 	display: none;
 }
-	#title{
-		width:60vw;
-	}
+
 .star1{
 	position: absolute;
 	pointer-events: none;
@@ -412,8 +407,8 @@ body{
 	transition: 0.5s;
 	left:0;
 }
-	.title{
-	width:80vw;
+.title{
+	width:70vw;
 	font-size:30px;
 	text-shadow: 0 0 5px white, 0 0 8px white;
 		letter-spacing: 3px;
