@@ -421,7 +421,7 @@ html{
   min-height:0px;
   pointer-events: none;
 }
-	.dropdown{
+/* 	.dropdown{
 	display:block;
 	position:absolute;
 	top:5vw;
@@ -431,11 +431,11 @@ html{
 	font-family: sans-serif;
 	font-size:15px;
 
-}
-/* .a:hover .dropdown{
+} */
+.a:hover .dropdown{
 	display:block;
 
-} */
+}
 	.a:hover .dropdown {
 	display:none;
 }
@@ -458,17 +458,17 @@ p{
 .clap{
 	position: absolute;
 	right:-10%;
-	bottom:-25%;
+	bottom:-28%;
 	pointer-events: none;
-	width:55vw;
+	width:57vw;
 }
 .clap2{
 	position: absolute;
 	left:-10%;
-	bottom:-25%;
+	bottom:-28%;
 	pointer-events: none;
 	transform: scaleX(-1);
-	width:55vw;
+	width:57vw;
 }
 .clap3{
 display:none;
@@ -479,22 +479,22 @@ display:none;
 .clap5{
 	position: absolute;
 	left:-8%;
-	bottom:53%;
+	bottom:51%;
 	pointer-events: none;
 	transform: scaleX(-1) rotate(-120deg);
-	width:55vw;
+	width:57vw;
 }
 .clap6{
 	position: absolute;
 	right:-8%;
-	bottom:53%;
+	bottom:51%;
 	pointer-events: none;
 	transform: rotate(-120deg);
-	width:55vw;
+	width:57vw;
 }
 
 .me{
-	top:57%;
+	top:55%;
 	transform: translate(-50%,-50%);
 	font-size:17px;
 	width:55vw;
