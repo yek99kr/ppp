@@ -1,6 +1,10 @@
 
 
 window.onload=function(){
+	    $('.blueback').ripples({
+    resolution: 500,
+     perturbance:0.001,
+ });
 
     $('.close').click(function(){
         $('.modal iframe').each(function(){
