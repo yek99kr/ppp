@@ -3,8 +3,8 @@
 window.onload=function(){
 
      $('.blueback').ripples({
-    resolution: 500,
-     perturbance:0.001,
+    resolution: 1000,
+     perturbance:0.0005,
  });
 
     $('.close').click(function(){
