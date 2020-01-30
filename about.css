@@ -370,12 +370,21 @@ h{
 	width:30vw;
 }
 .clap5{
-display:none;
+	position: fixed;
+	left:-8vw;
+	bottom:30vh;
+	pointer-events: none;
+	transform: scaleX(-1) rotate(-60deg);
+	width:30vw;
 }
 .clap6{
-display:none;
+	position: fixed;
+	right:-8vw;
+	bottom:30vh;
+	pointer-events: none;
+	transform: rotate(-60deg);
+	width:30vw;
 }
-
 
 .title{
 	position:absolute;
@@ -447,20 +456,10 @@ p{
 	width:50vw;
 }
 .clap3{
-	position: absolute;
-	left:-15%;
-	bottom:30%;
-	pointer-events: none;
-	transform: scaleX(-1) rotate(-60deg);
-	width:50vw;
+display:none;
 }
 .clap4{
-	position: absolute;
-	right:-15%;
-	bottom:30%;
-	pointer-events: none;
-	transform: rotate(-60deg);
-	width:50vw;
+display:none;
 }
 .clap5{
 	position: absolute;
