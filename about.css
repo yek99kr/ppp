@@ -418,6 +418,9 @@ h{
   min-height:0px;
   pointer-events: none;
 }
+	.a:hover .dropdown {
+	display:none;
+}
 p{
 	width:70vw;
 	margin-top:3vh;
