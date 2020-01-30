@@ -341,7 +341,7 @@ body{
 .home{
 	position:absolute;
 	left:22vh;
-	top:32vh;
+	top:34vh;
 	animation:home 4s infinite;
 	
 }
@@ -397,7 +397,7 @@ body{
 .about{
 	position:absolute;
 	right:13vw;
-	top:12vh;
+	top:14vh;
 	animation:about 2s infinite;
 
 }
