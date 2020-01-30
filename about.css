@@ -408,6 +408,9 @@ h{
 
 
 @media only screen and (max-width:800px) {
+	html{
+	background: linear-gradient(180deg, rgba(236,237,255,1) 0%, rgba(75,124,255,1) 90%);
+	}
 	.cursor{
 	display:none;}
 	.a iframe{
@@ -487,7 +490,7 @@ p{
 .me{
 	top:50%;
 	transform: translate(-50%,-50%);
-	font-size:20px;
+	font-size:17px;
 	width:55vw;
 	text-shadow: 0 0 8px white;;
 }
