@@ -4,7 +4,7 @@ window.onload=function(){
 
      $('.blueback').ripples({
     resolution: 1000,
-     perturbance:0.0009,
+     perturbance:0.001,
  });
 
     $('.close').click(function(){
