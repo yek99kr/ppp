@@ -43,6 +43,24 @@ body{
 	animation:title 1s infinite;
 
 }
+.shiny{
+	position:absolute;
+	left:22%;
+	top:-15vh;
+	width:7vw;
+	pointer-events: none;
+	filter: blur(1.5px);
+	z-index: 1;
+}
+.shiny2{
+	position:absolute;
+	right:24%;
+	top:-20vh;
+	width:7vw;
+	pointer-events: none;
+	filter: blur(1.5px);
+	z-index: 1;
+}
 #h{
 	animation:title 4s infinite;
 }
