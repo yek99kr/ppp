@@ -62,7 +62,7 @@ body{
 /*	animation:ham 2s infinite;*/
 }
 .a:hover{
-	animation:pimple 1s;	
+	animation:ill 1s;	
 }
 
 .a iframe{
@@ -651,3 +651,5 @@ display:none;
   50% {transform:translate(-2%);}
   100% {transform: translate(2%);}
 }
+
+
