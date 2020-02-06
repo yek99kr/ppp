@@ -3,7 +3,7 @@
 window.onload=function(){
 
      $('.blueback').ripples({
-    resolution: 1000,
+    resolution: 600,
      perturbance:0.003,
  });
 
