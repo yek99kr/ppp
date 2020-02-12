@@ -678,7 +678,7 @@ p{
 
 .ground{
 	position:absolute;
-	bottom:0;
+	bottom:0%;
 	left:0;
 	width:160vw;
 	z-index: 1;
@@ -727,7 +727,7 @@ p{
 }
 #but2{
 	position: absolute;
-	top:11vh;
+	top:11%;
 	left:10vw;
 
 }
@@ -738,7 +738,7 @@ p{
 }
 #but3{
 	position: absolute;
-	top:35vh;
+	top:35%;
 	left:8vw;
 
 }
@@ -761,7 +761,7 @@ p{
 
 #but5{
 	position: absolute;
-	top:22vh;
+	top:22%;
 	right:-3%;
 	animation:longt 2.5s;
 	z-index: 1;
@@ -775,7 +775,7 @@ p{
 
 #but6{
 	position: absolute;
-	bottom:25vh;
+	bottom:25%;
 	right:15vw;
 
 }
@@ -787,7 +787,7 @@ p{
 
 #but7{
 	position: absolute;
-	bottom:3vh;
+	bottom:3%;
 	left:10vw;
 	z-index: 3;
 	width:35vw;
@@ -807,7 +807,7 @@ p{
 
 #but8{
 	position: absolute;
-	bottom:13vh;
+	bottom:13%;
 	right:6vw;
 	z-index: 3;
 }
@@ -833,7 +833,7 @@ p{
 .gd{
 	position:absolute;
 	left:2vw;
-	top:13vh;
+	top:13%;
 	animation:gd 3s infinite;
 }
 .gd img{
@@ -846,7 +846,7 @@ p{
 .ani{
 	position:absolute;
 	left:5vw;
-	bottom:28vh;
+	bottom:28%;
 	animation:ani 2.5s infinite;
 }
 .ani img{
@@ -860,7 +860,7 @@ p{
 .ill{
 	position:absolute;
 	right:15vw;
-	bottom:5vh;
+	bottom:5%;
 	transform: rotate(-30deg);
 	animation:ill 12s linear infinite;
 }
@@ -875,7 +875,7 @@ p{
 .about{
 	position:absolute;
 	right:13vw;
-	top:10vh;
+	top:10%;
 	animation:about 2s infinite;
 
 }
@@ -889,7 +889,7 @@ p{
 	position: absolute;
 	pointer-events: none;
 	left:3vw;
-	bottom:2vh;
+	bottom:2%;
 	width:30vw;
 }
 
